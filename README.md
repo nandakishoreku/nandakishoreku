@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandakishoreku
-- 👀 I’m UI/UX Designer and Frontend Developer
+- 👀 I’m UI/UX Designer 
 - 🌱 I’m currently learning JavaScript and Angular
 - 💞️ I’m looking to collaborate on new client projcet 
 - 📫 You can reach me at nandakishoreku@gmail.com
