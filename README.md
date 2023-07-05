@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nandakishoreku
 - 👀 I’m UI/UX Designer 
-- 🌱 I’m currently learning JavaScript and Angular
-- 💞️ I’m looking to collaborate on new client projcet 
+- 💞️ I’m looking to collaborate on new client project 
 - 📫 You can reach me at nandakishoreku@gmail.com
 
 <!---
