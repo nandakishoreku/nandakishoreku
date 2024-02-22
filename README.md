@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nandakishoreku
+- 👋 Hi, I’m Kishore
 - 👀 I’m UI/UX Designer 
-- 💞️ I’m looking to collaborate on new client project 
+- 💞️ I’m looking to collaborate on a new client project 
 - 📫 You can reach me at nandakishoreku@gmail.com
 
 <!---
